@@ -1,11 +1,11 @@
 {
   "env": {
     "IS_HEROKU_SERVER": "1",
-    "GMAPS_API_KEY": "my_google_maps_api_key",
-    "PTC_USERNAME": "my_pokeclub_username",
-    "PTC_PASSWORD": "my_pokeclub_password",
-    "GOOG_USERNAME": "my_google_username",
-    "GOOG_PASSWORD": "my_google_password"
+    "GMAPS_API_KEY": "AIzaSyCrESpM9DwRcNJ0iJNSWUEI0BT6jcxP1Nw",
+    "PTC_USERNAME": "theOneWeNeed",
+    "PTC_PASSWORD": "lassie",
+    "GOOG_USERNAME": "theoneyouneed6@gmial.com",
+    "GOOG_PASSWORD": "plasticcup"
   },
   "addons": [
     "papertrail"
